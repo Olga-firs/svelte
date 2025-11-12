@@ -1,5 +1,5 @@
 <script lang="ts"> 
-let {data}=$props();
+let {data} :{data: {pet:{pname:String,weight:String}}}=$props();
 </script>
 
 <ul>
