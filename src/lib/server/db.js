@@ -1,9 +1,9 @@
 // In a real app, this data would live in a database,
 
-export  const pets=[ {pname: "rasty",  weight:5, sp: "cat"},
-    {pname: "zoro",  weight:4, sp: "cat"},
-     {pname: "zuu",  weight:25, sp: "dog"},
-      {pname: "kora",  weight:15, sp: "dog"},
+export  const pets=[ {pname: "rasty",  weight:5, sp: "Cat"},
+    {pname: "zoro",  weight:4, sp: "Cat"},
+     {pname: "zuu",  weight:25, sp: "Dog"},
+      {pname: "kora",  weight:15, sp: "Dog"},
 ]
 
 export function getPet( pname ) {

@@ -34,10 +34,8 @@
 <form method="POST" action="?/create" >
 
 <label >who is flaffy? 
-<select id="sp" name="sp">
-  <option value="Cat" >Cat</option>
-  <option value="Dog">Dog</option>
-</select>
+  <input  value="Cat" name="sp"  type="radio">Cat
+  <input value="Dog" name="sp"  type="radio">Dog
 </label><br>
 <lable>name<input name="pname"/></lable>
 <br>
