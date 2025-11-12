@@ -1,1 +1,1 @@
-export const message="new message1";
+export const message="new message2";
